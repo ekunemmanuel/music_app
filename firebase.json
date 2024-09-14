@@ -1,0 +1,25 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "music-app-e7fcf",
+          "appId": "1:463443100868:android:50802505e182a0b1713591",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "music-app-e7fcf",
+          "configurations": {
+            "android": "1:463443100868:android:50802505e182a0b1713591",
+            "ios": "1:463443100868:ios:f46b8c58f781dae6713591",
+            "macos": "1:463443100868:ios:f46b8c58f781dae6713591",
+            "web": "1:463443100868:web:494406aa9338bfde713591",
+            "windows": "1:463443100868:web:23420abab01c75a9713591"
+          }
+        }
+      }
+    }
+  }
+}
